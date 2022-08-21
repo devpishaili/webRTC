@@ -8,6 +8,7 @@ A GitHub repo dedicated to the learning process of WebRTC into being a PRO!
 
 ### What is WEBRTC?
 WebRTC (Web Real-Time Communication) is a technology that enables Web applications and sites to capture and optionally stream audio and/or video media, as well as to exchange arbitrary data between browsers without requiring an intermediary. The set of standards that comprise WebRTC makes it possible to share data and perform teleconferencing peer-to-peer, without requiring that the user install plug-ins or any other third-party software.
+[_While WebRTC is largely a peer-to-peer technology, it does still require servers to help signal the initial connection, navigate NATs, and to support advanced calling scenarios._](https://www.youtube.com/watch?v=Y1mx7cx6ckI).
 
 ### What are Web Sockets?
 WebSocket is bidirectional, a full-duplex protocol that is used in the same scenario of client-server communication. It is a stateful protocol, which means the connection between client and server will keep alive until it is terminated by either party (client or server). After closing the connection by either of the client and server, the connection is terminated from both ends. 
