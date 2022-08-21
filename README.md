@@ -4,7 +4,9 @@
 - [ ] Web Sockets
 - [ ] Socket.io
 - [ ] Agora io
-- [ ] References
+- [ ] [Glossary](https://github.com/devpishaili/webRTC/edit/main/README.md#glossary)
+- [ ] [Further Reading and References](https://github.com/devpishaili/webRTC/edit/main/README.md#further-reading--reference)
+---
 
 ### What is WEBRTC?
 WebRTC (Web Real-Time Communication) is a technology that enables Web applications and sites to capture and optionally stream audio and/or video media, as well as to exchange arbitrary data between browsers without requiring an intermediary. The set of standards that comprise WebRTC makes it possible to share data and perform teleconferencing peer-to-peer, without requiring that the user install plug-ins or any other third-party software.
@@ -22,12 +24,14 @@ A STUN (Session Traversal of User Datagram Protocol [UDP] Through Network Addres
 The STUN server allows clients to find out their public address, the type of NAT they are behind and the Internet side port associated by the NAT with a particular local port. This information is used to set up UDP communication between the client and the VoIP provider to establish a call. https://www.ietf.org/rfc/rfc3489.txt
 
 
-## Further Reading & Reference
+### Glossary
 
- ** https://medium.com/agora-io/how-does-webrtc-work-996748603141
+- [x] **ICE**: Internal Communication Establishment
+- [x] **RTC**: Real-Time Communication
 
-https://www.ietf.org/rfc/rfc3489.txt
+### Further Reading & Reference
 
-https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/
-
+https://medium.com/agora-io/how-does-webrtc-work-996748603141 <br />
+https://www.ietf.org/rfc/rfc3489.txt  <br />
+https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/  <br />
 https://www.agora.io/en/
