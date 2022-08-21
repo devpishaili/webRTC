@@ -2,6 +2,7 @@
 A GitHub repo dedicated to the learning process of WebRTC into being a PRO!
 - [ ] What is webRTC?
 - [ ] Web Sockets
+- [ ] Socket.io
 - [ ] Agora io
 - [ ] References
 
@@ -10,6 +11,9 @@ WebRTC (Web Real-Time Communication) is a technology that enables Web applicatio
 
 ### What are Web Sockets?
 WebSocket is bidirectional, a full-duplex protocol that is used in the same scenario of client-server communication. It is a stateful protocol, which means the connection between client and server will keep alive until it is terminated by either party (client or server). After closing the connection by either of the client and server, the connection is terminated from both ends. 
+
+### Socket.io
+Socket.IO is a library that enables bidirectional and event based communication between a client and server.It is built on the top of websocket protocol but first of all what does it means the answer to this question is that socket.io enables the client and server to have connection persistent so they can exchange data in realtime.  Socket.io is library that uses websockets under the hood.
 
 ### What is a STUN server?
 A STUN (Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs]) server allows NAT clients (i.e. IP Phones behind a firewall) to set up phone calls to a VoIP provider hosted outside of the local network.
