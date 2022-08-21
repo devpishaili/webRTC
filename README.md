@@ -4,8 +4,8 @@
 - [ ] Web Sockets
 - [ ] Socket.io
 - [ ] Agora io
-- [ ] [Glossary](https://github.com/devpishaili/webRTC/edit/main/README.md#glossary)
-- [ ] [Further Reading and References](https://github.com/devpishaili/webRTC/edit/main/README.md#further-reading--reference)
+- [ ] [Glossary](https://github.com/devpishaili/webRTC/main/README.md#glossary)
+- [ ] [Further Reading and References](https://github.com/devpishaili/webRTC/main/README.md#further-reading--reference)
 ---
 
 ### What is WEBRTC?
