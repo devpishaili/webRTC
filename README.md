@@ -1,5 +1,5 @@
 # Introduction to WebRTC
-A GitHub repo dedicated to the learning process of WebRTC into being a PRO!
+
 - [ ] What is webRTC?
 - [ ] Web Sockets
 - [ ] Socket.io
