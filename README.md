@@ -29,6 +29,7 @@ The STUN server allows clients to find out their public address, the type of NAT
 - [x] **ICE**: Internal Communication Establishment
 - [x] **RTC**: Real-Time Communication
 - [x] **SDP**: Session Description Protocol
+- [x] **API**: Appication Programming Interface
 
 ### Further Reading & Reference
 
